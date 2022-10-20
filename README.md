@@ -5,7 +5,7 @@
 - 📊 Trabalho na <b>Commit Jr.</b>
 - 🧪 Faço Iniciação Cientifica na área de <b>algoritmos genéticos e otimização.</b>
 - 👾 Participo de <b>Maratonas de Programação.</b>
-- 🏡 Moro em Belo Horizonte, mas nasci em Itáuna-MG.
+- 🏡 Moro em Belo Horizonte, mas nasci em Itaúna-MG.
 
 <div align="center">
   <a href="https://github.com/santoslucas">
