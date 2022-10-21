@@ -16,7 +16,7 @@
   <img align="center" alt="Santos-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Santos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Santos-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="Santos-pic" height="150" style="border-radius:50px;" src="https://cdn.pixabay.com/photo/2020/05/11/05/15/chrome-5156508_1280.png">
+  <img align="right" alt="Santos-pic" height="150" style="border-radius:50px;" src="https://github.com/santoslucas/santoslucas/blob/main/dino.png">
 </div>
 <p>
 <div>
