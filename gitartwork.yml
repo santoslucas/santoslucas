@@ -15,4 +15,4 @@
             user_name: santoslucas
             # Text on contribution graph 
             text: SANTOS
-       - uses: santoslucas/simple-push-action@v1
+       - uses: jasineri/simple-push-action@v1
