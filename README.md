@@ -1,10 +1,9 @@
-### Oi, me chamo <b> Lucas Santos! </b>
+### Hi, I'm <b>Lucas Santos!</b>
 
-
-- 👨‍🎓 Sou graduando em <b>Engenharia de Computação</b>, pelo CEFET-MG.
-- 📊 Trabalho na <b>LEVTY</b> como Engenheiro de Software.
-- 👾 Participo de <b>Maratonas de Programação.</b>
-- 🏡 Moro em Belo Horizonte, mas nasci em Itaúna-MG.
+- 👨‍🎓 I'm an undergraduate student in <b>Computer Engineering</b> at CEFET-MG.  
+- 📊 I work at <b>LEVTY</b> as a Software Engineer.  
+- 👾 I developed the <a href="https://github.com/scikit-autoeval/scikit-autoeval">scikit-autoeval</a> library.  
+- 🏡 I live in Belo Horizonte, but I was born in Itaúna–MG.
 
 <div align="center">
   <a href="https://github.com/santoslucas">
