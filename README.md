@@ -3,7 +3,7 @@
 - 👨‍🎓 I'm an undergraduate student in <b>Computer Engineering</b> at CEFET-MG.  
 - 📊 I work at <b>LEVTY</b> as a Software Engineer.  
 - 👾 I developed the <a href="https://github.com/scikit-autoeval/scikit-autoeval">scikit-autoeval</a> library.  
-- 🏡 I live in Belo Horizonte, but I was born in Itaúna–MG.
+- 🏡 I live in Belo Horizonte-MG, but I was born in Itaúna–MG.
 
 <div align="center">
   <a href="https://github.com/santoslucas">
